@@ -21,7 +21,7 @@ The code was run with **Python 3.11.11** and the following packages:
 | numpy      | 2.1.3    | Numerical computations                                                       |
 | matplotlib | 3.10.0   | Plotting and visualization                                                   |
 | scipy      | 1.15.3   | Miscellaneous scientific functions                                           |
-| pyafv      | >=0.4.16 | Core package; see the [GitHub repository](https://github.com/wwang721/pyafv) |
+| pyafv      | >=0.4.18 | Core package; see the [GitHub repository](https://github.com/wwang721/pyafv) |
 | tqdm       | 4.67.1   | Progress bars during calculations                                            |
 | mpi4py     | 4.0.3    | Parallel processing using MPI                                                |
 | lifelines  | 0.30.0   | Survival analysis                                                            |
@@ -99,9 +99,9 @@ The remaining figures are either purely theoretical or minor variants/extensions
 
 ## More information
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19698926.svg)](https://doi.org/10.5281/zenodo.19698926)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24403749.svg)](https://doi.org/10.5281/zenodo.24403749)
 
-- This repository is also archived and cross-listed on [Zenodo](https://doi.org/10.5281/zenodo.19698926).
+- This repository is also archived and cross-listed on [Zenodo](https://doi.org/10.5281/zenodo.24403749).
 - The authors acknowledge support from the National Institutes of Health (NIH) Grant No. R35GM142847.
 - This work was carried out at the Advanced Research Computing at Hopkins (ARCH) core facility, which is supported by the National Science Foundation (NSF) Grant No. OAC1920103.
 
